@@ -1,0 +1,33 @@
+.form{
+    margin-top: 50px;
+    color: black
+}
+.form__fieldset{
+    border-radius: 10px;
+    border-color: red;
+
+}
+.form__legend{
+    background-color: rgb(241, 155, 155);
+    border-color: black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.form__textLabel{
+    font-size: 22px;
+display: inline-block;
+width: 100%;
+max-width: 400px;
+text-align: left;
+margin-right: 10px;
+}
+.form__textLabel--inportent{
+    color: red;
+}
+.form__field{
+    padding: 10px;
+    border-radius: 10px;
+    border-color: black
+
+
+}
